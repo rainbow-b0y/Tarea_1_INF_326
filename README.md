@@ -15,7 +15,7 @@ La solución utiliza:
 | Nombre | Rol |
 |---|---|
 | Matías Acuña | 202210097-4 |
-| [Integrante 2] | [Rol] |
+| Catalina M. Rosales | 202073030-K |
 
 ## Arquitectura
 
